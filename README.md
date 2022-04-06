@@ -1,2 +1,2 @@
 # cafecito
-prbando repositorios
+probando repositorios
